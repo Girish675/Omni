@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.girish.premiumapp.presentation.search.SearchViewModel

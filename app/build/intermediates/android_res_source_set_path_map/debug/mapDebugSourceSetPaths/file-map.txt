@@ -1,0 +1,7 @@
+com.girish.premiumapp-updated_navigation_xml-0 C:\Girish\Android App\app\build\generated\updated_navigation_xml\debug
+com.girish.premiumapp-packageDebugResources-1 C:\Girish\Android App\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.girish.premiumapp-packageDebugResources-2 C:\Girish\Android App\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.girish.premiumapp-debug-3 C:\Girish\Android App\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.girish.premiumapp-debug-4 C:\Girish\Android App\app\src\debug\res
+com.girish.premiumapp-main-5 C:\Girish\Android App\app\src\main\res
+gradleHome-0 C:\Users\gpedired\.gradle
